@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608004162298",
+    "firebase_url": "https://ocampress-61c1d.firebaseio.com",
+    "project_id": "ocampress-61c1d",
+    "storage_bucket": "ocampress-61c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608004162298:android:7fbb190130d8c1a5",
+        "android_client_info": {
+          "package_name": "com.example.subhash.campress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608004162298-rtqu4breue9dc8a7gq8njgl87pbtns2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhash.campress",
+            "certificate_hash": "c64bfeb356d5db7060349cddca5be35b7013b95f"
+          }
+        },
+        {
+          "client_id": "608004162298-v0uqsh830lgo82lp5vptna4fpcfcgp7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0W7FzmW0VmPjlgpSoWx9-D_e1cSKHNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608004162298-v0uqsh830lgo82lp5vptna4fpcfcgp7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
